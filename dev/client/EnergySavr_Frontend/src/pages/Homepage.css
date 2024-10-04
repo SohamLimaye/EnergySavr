@@ -1,0 +1,90 @@
+.UserGreeting {
+    width: 214px;
+    height: 66px;
+    padding: 4px;
+    left: 44px;
+    top: 114px;
+    position: absolute;
+    border-bottom: 1px #E8E8E8 solid;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 4px;
+    display: inline-flex;
+}
+
+.HiSoham {
+    text-align: center;
+}
+
+.HiSoham span:first-child {
+    color: #1C1C1C;
+    font-size: 32px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    line-height: 48px;
+    word-wrap: break-word;
+}
+
+.HiSoham span:last-child {
+    color: #56CA00;
+    font-size: 32px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    line-height: 48px;
+    word-wrap: break-word;
+}
+
+.Title {
+    width: 1440px;
+    height: 104px;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+.Rectangle73 {
+    width: 1440px;
+    height: 104px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: #272727;
+}
+
+.EnergySavr {
+    width: 1211.36px;
+    height: 52px;
+    left: 97.27px;
+    top: 28px;
+    position: absolute;
+    text-align: center;
+}
+
+.EnergySavr span:first-child {
+    color: #F7F7F7;
+    font-size: 24px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26.4px;
+    word-wrap: break-word;
+}
+
+.EnergySavr span:last-child {
+    color: #56CA00;
+    font-size: 24px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26.4px;
+    word-wrap: break-word;
+}
+
+.Rectangle74 {
+    width: 53px;
+    height: 51px;
+    left: 1349px;
+    top: 114px;
+    position: absolute;
+    background: #D9D9D9;
+}
